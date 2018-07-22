@@ -1,2 +1,2 @@
 # webCrawller
-基于webcollerctor爬虫框架的java爬虫
+基于webcollerctor爬虫框架的java爬虫示例
